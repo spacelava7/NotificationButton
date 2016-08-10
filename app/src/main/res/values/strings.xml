@@ -2,4 +2,8 @@
     <string name="app_name">NotificationButton</string>
     <string name="main_info_txt"> Press the button to trigger a notification</string>
     <string name="resultActivity_info_txt"> Result Activity from Notification Intent!!</string>
+    <string name="notificationTicker"> 1</string>
+
+    <string name="notificationTitle">New Message</string>
+    <string name="notificationText">You have a new message!</string>
 </resources>
