@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationButton</string>
+    <string name="main_info_txt"> Press the button to trigger a notification</string>
+    <string name="resultActivity_info_txt"> Result Activity from Notification Intent!!</string>
+</resources>
